@@ -3,7 +3,7 @@ import requests
 import json
 
 LOC="/binpackage"
-LOC="/process/service"
+#LOC="/process/service"
 
 inp =  "færi"
 print("INP:",inp)
